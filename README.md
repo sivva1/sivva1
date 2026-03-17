@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**sivva1/sivva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Coding Infinite</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Passionate Developer | 💡 Tech Enthusiast | 🎯 Building Cool Stuff
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  📺 YouTube: <a href="https://www.youtube.com/@coding.infinite" target="_blank">Coding.infinite</a><br>
+  📸 Instagram: <a href="https://instagram.com/coding.infinite" target="_blank">@coding.infinite</a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 About Me
+
+- 🔭 Currently working on **awesome web projects**
+- 🌱 Learning **advanced development & UI/UX**
+- 💡 Love building **creative & unique tools**
+- ⚡ Fun fact: I turn ideas into reality with code
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+HTML • CSS • JavaScript • Firebase • Git • UI/UX
