@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Coding Infinite</h1>
+<h1 align="center">Hi 👋, I'm Sivva</h1>
 
 <p align="center">
   🌐 <a href="https://ciweb.in" target="_blank">Visit My Website</a>
