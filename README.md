@@ -18,7 +18,7 @@
 ## 🔥 GitHub Activity (Blue Dots)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivva1&theme=github-compact" />
 </p>
 
 ---
